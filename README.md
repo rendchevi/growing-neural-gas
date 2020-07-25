@@ -21,7 +21,5 @@ beta # multiplying scalar for global error
 ```
 
 ## Example of use in 3D reconstruction
-1. Reconstructing an annulus (dummy data)
-![Annulus GIF](https://github.com/rendchevi/artnet-app/blob/master/assets/patch_sample.jpg)
-2. Reconstructing a full human head (with iPhone X and [Standard Cyborg's app](https://www.standardcyborg.com/products)
+- Reconstructing a full human head (with iPhone X and [Standard Cyborg's app](https://www.standardcyborg.com/products)
 ![3D Head Image](https://github.com/rendchevi/growing-neural-gas/blob/master/assets/face_gng.png)
